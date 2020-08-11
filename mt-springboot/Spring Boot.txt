@@ -1,0 +1,67 @@
+Framework for building java applications very fast
+
+No need to reinvent wheel. connectivity to db,
+
+avoid low level code
+
+dependency injection
+
+real database running on docker
+
+spring boot 2.0
+
+best application framework in java world
+
+provides a platform to build application
+
+any client can submit request rest request
+
+recieve the request
+
+service layer
+
+after you perform a business logic, you may want to perform crud operations
+
+coolthing
+
+start with an implementation just change one line of code
+
+
+client react, android app
+
+
+response could be json payload
+
+
+first thing
+
+
+start.spring.io
+
+picking dependencies
+
+pick maven
+
+pick latest version of spring boot
+
+dependencies
+
+instead of having to configuring, get started quickly
+
+difficult job of implementing security
+
+
+
+pick spring web starter.
+
+statuc is where web resources live
+
+properties for different environments
+
+dev, prod, test in application properties
+
+draw.io
+
+
+
+
